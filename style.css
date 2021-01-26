@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://static9.depositphotos.com/1389325/1091/v/600/depositphotos_10910049-stock-illustration-mathematics-school-supplies-geometric-shapes.jpg");    
+   }
+
+.conatiner{
+    text-align: center;
+    margin-top:23px ;
+    height: auto;
+}
+table{
+    margin: auto;
+}
+input{
+    border-radius: 21px;
+    border: 5px solid #244624;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+    background-color: 	#F0FFFF;
+    margin-top:-5px ;
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background:	#FFEFD5;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 4px solid #13695d;
+    background-color:	#00FFFF;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    
+    
+}
+h1{
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+
+}
+ h2{
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 25px;
+ }
+
+ .btn{
+     font-size: 17px;
+     font-weight: bold;
+ }
